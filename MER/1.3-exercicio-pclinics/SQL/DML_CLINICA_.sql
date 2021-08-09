@@ -1,4 +1,4 @@
-USE CLINICA;
+USE CLINICA_;
 GO
 
 INSERT INTO PET(nomePet, tipoPet, dataNascimento)
